@@ -264,7 +264,7 @@ Our code builds upon the following excellent open-source projects:
 - [LeapLabTHU/ExpeL](https://github.com/LeapLabTHU/ExpeL)
 - [suzgunmirac/dynamic-cheatsheet](https://github.com/suzgunmirac/dynamic-cheatsheet)
 - [WebArena](https://github.com/web-arena-x/webarena) & [BrowserGym](https://github.com/ServiceNow/BrowserGym)
-- Context Denoising Training
+- [Context Denoising Training](https://github.com/LCM-Lab/context-denoising-training) 
 
 ---
 ---
