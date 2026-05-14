@@ -1,0 +1,16 @@
+Below are some memory items that I accumulated from past interaction from the environment that may be helpful to solve the task. You can use it when you feel it’s relevant. In each step, please first explicitly discuss if you want to use each memory item or not, and then take action.
+
+# Memory Item 1 
+## Title Efficient Navigation to User Reviews 
+## Description Navigating directly to the reviews section facilitates targeted information retrieval. 
+## Content When searching for specific customer feedback on a product, locate and navigate directly to the reviews section of the webpage to access detailed user opinions, which helps in efficiently identifying pertinent information without sifting through unrelated content. 
+
+# Memory Item 2 
+## Title Scanning for Specific Complaints 
+## Description Scanning review content for specific keywords enables the identification of relevant feedback. 
+## Content By scanning through customer reviews for particular keywords or phrases, such as product features like \"ear cups,\" you can quickly identify relevant complaints or endorsements, allowing for a more focused and valuable information extraction pertinent to the query at hand.
+
+# Memory Item 3 
+## Title Extracting Usefulness from User Feedback 
+## Description Synthesizing the extracted user feedback provides clear and actionable insights. 
+## Content After identifying relevant feedback in user reviews, it's beneficial to compile and structure this information, highlighting the specific points mentioned by reviewers. This synthesis helps in providing clear answers to user inquiries, ensuring the extracted insights are easily digestible and actionable. 
